@@ -1,2 +1,2 @@
-# SvietobatchenkoSergey.github.io
+# svietobatchenkosergey.github.io
 Мой сайт
